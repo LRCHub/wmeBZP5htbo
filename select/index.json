@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "赤",
+  "base_artist": "れん",
+  "createdAt": "2025-12-18T14:07:59.898969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "赤",
+      "artist": "れん",
+      "has_synced": true,
+      "path": "select/01_赤_れん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "赤",
+      "artist": "Sakura Fujiwara",
+      "has_synced": true,
+      "path": "select/02_赤_Sakura_Fujiwara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤",
+      "artist": "れん",
+      "has_synced": false,
+      "path": "select/pl_01_赤_れん.txt"
+    }
+  ]
+}
